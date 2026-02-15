@@ -47,4 +47,4 @@ on Autonomous Agents and Multiagent Systems (AAMAS 2026)
 
 ## Contact
 
-For questions or collaboration opportunities, please contact [your email]
+For questions or collaboration opportunities, please contact lcui@loyola.edu
