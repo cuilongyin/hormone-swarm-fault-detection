@@ -3,7 +3,7 @@
 This repository contains the simulation code for the paper:
 
 **"Ratio-Based Signaling for Source-Victim Separation in Swarm Fault Detection"**  
-Accepted at AAMAS 2026
+AAMAS 2026
 
 ## Overview
 
