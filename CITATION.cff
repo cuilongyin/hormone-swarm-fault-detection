@@ -1,0 +1,27 @@
+cff-version: 1.0.1
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: Cui
+    given-names: Longyin
+    affiliation: Loyola University Maryland
+    email: lcui@loyola.edu
+    orcid: https://orcid.org/0000-0003-4314-8542
+title: "Ratio-Based Signaling for Source-Victim Separation in Swarm Fault Detection"
+version: 1.0.1
+date-released: 2026-02-17
+doi: 10.65109/UYYF8433
+url: "https://doi.org/10.65109/UYYF8433"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Cui
+      given-names: Longyin
+  title: "Ratio-Based Signaling for Source-Victim Separation in Swarm Fault Detection"
+  collection-title: "Proc. of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)"
+  conference:
+    name: "AAMAS 2026"
+    country: Cyprus
+    date-start: 2026-05-25
+    date-end: 2026-05-29
+  year: 2026
+  doi: 10.65109/UYYF8433
